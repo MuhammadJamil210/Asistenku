@@ -12,7 +12,7 @@ Penjadwalan asistensi praktikum dapat mengalami kendala, seperti bentroknya jadw
 - Mengurangi kemungkinan bentroknya jadwal asistensi.
 
 ## 4. Anggota Kelompok
-1. Elisa Emi Putri
+1. Elisa Emi Putri (60200125062)
 2. Ahmad Raihan (60200125106)
 3. Muh Jamil Aqsa Abd. Malik (60200125038)
 
