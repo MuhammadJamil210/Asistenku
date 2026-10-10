@@ -13,8 +13,8 @@ Penjadwalan asistensi praktikum dapat mengalami kendala, seperti bentroknya jadw
 
 ## 4. Anggota Kelompok
 1. Elisa Emi Putri
-2. Ahmad Raihan
-3. Muh Jamil Aqsa Abd. Malik
+2. Ahmad Raihan (60200125106)
+3. Muh Jamil Aqsa Abd. Malik (60200125038)
 
 ## 5. Struktur Repository
 - `README.md` — Dokumentasi proyek.
